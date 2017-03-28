@@ -1,6 +1,6 @@
 .orbit-container {
   position: relative;
-  height: 300px; }
+  max-height: 500px; }
 
   .orbit-caption {
     position: absolute;
@@ -11,12 +11,13 @@
     }
 
     .orbit-caption p {
-      position: absolute;
+      position: relative;
+      padding-left: 1rem;
       top: 50%;
       -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
       transform: translateY(-50%);
-      text-align: center;
+      text-align: left;
       color: #fefefe;
       font-size: 48px;
       font-weight: 900; }

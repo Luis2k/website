@@ -3,23 +3,24 @@
   background-color: #e7edde;
   position: relative;
   overflow: visible;
-  padding-top: 2.5rem;
-  padding-bottom: 3.1rem; }
+  padding-top: 3rem;
+  padding-bottom: 2.5rem; }
   .header .headlines {
     text-align: center;
     color: #000000; }
   .header .underlines {
     text-align: left;
-    color: #000000
+    padding-left: 3rem;
+    color: #000000;
   }
 
   [data-sticky] {
-    width: 100%; }
+    width: 75%; }
 
     .top-bar {
-      padding: 2rem;
+      padding: 0.5rem;
       transition: padding .25s ease; }
 
       .is-stuck .top-bar {
-        padding: 1rem;
+        padding: 0.5rem;
         transition: padding .25s ease; }
