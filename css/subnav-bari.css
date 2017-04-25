@@ -13,7 +13,7 @@
       top: 10px; }
 
       /* Medium-Up Navigation */
-      @media only screen and (min-width: 40rem) {
+    /*  @media only screen and (min-width: 40rem) {
         .logo-wrapper {
           position: relative; }
           .logo-wrapper .logo {
@@ -29,7 +29,7 @@
               width: 50%;
               padding-left: 86px; }
               .top-bar-right ul {
-                float: left; }
+                float: left; } */
 
                 .top-bar-left {
                   width: 50%;
