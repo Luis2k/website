@@ -1,34 +1,37 @@
 
 h2{
-  font-family: Arial;
-  font-size: 85px;
-
+  font-family: Arial,sans-serif;
+  font-size: 40px;
+  margin-top: 10px;
+  margin-bottom: 0px;
 }
 
-a:link {
+h2 a:link {
   text-decoration: none;
   color: black;
 }
 
-a:visited {
+h2 a:visited {
   text-decoration: none;
   color: black;
 }
 
-a:hover {
+h2 a:hover {
   text-decoration: ;
   color: black;
 }
 
-a:active {
+h2 a:active {
   text-decoration: ;
   color: black;
 }
 
 #lf{
+  padding-left: 400px;
   text-align: left;
 }
 
 #rt{
+  padding-right: 400px;
   text-align: right;
 }
