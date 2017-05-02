@@ -11,7 +11,7 @@
     transform: translateY(-50%); }
 
     .footer {
-      background-color: #0d2c59;
+      background-color: blue;
       text-align: center;
       font-size: 1.5rem;
       padding-bottom: 2.5rem; }
@@ -26,7 +26,7 @@
           .footer .links a {
             list-style: none;
             font-weight: bold;
-            color: #ffae00;
+            color: orange;
             padding: 3rem 0 2rem;
             margin: 0; }
             .footer .links a::after {
